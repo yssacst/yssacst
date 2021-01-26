@@ -11,6 +11,7 @@
 ![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contato.rayssacoosta@gmail.com)
 
 ##
+![Java](https://img.shields.io/badge/-Java-%23F7DF1C?style=flat-square&logo=java&logoColor=00008b&labelColor=%00008b&color=%00008b)
 ![React](https://img.shields.io/badge/-React-%23F7DF1C?style=flat-square&logo=react&logoColor=ffffff&labelColor=blue&color=blue)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
