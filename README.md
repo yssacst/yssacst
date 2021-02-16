@@ -1,7 +1,7 @@
 # Welcome!
  
 ## I'm Rayssa, but you can call me Ray!
-- I want to be a excellent programmer 🤓
+- I want to be a excellent developer 🤓
 - So, until then, let's learn somethings with me !
 
 
